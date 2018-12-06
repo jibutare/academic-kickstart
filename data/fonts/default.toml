@@ -2,13 +2,13 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Noto+Serif+SC:300|Noto+Serif+TC:600|Noto+Serif+SC+Noto+Serif+TC"
+google_fonts = "Noto+Serif+SC:300,500|Noto+Serif+SC"
 
 # Font families
-heading_font = "Noto+Serif+TC"
+heading_font = "Noto+Serif+SC:500"
 body_font = "Noto+Serif+SC"
 nav_font = "Noto+Serif+SC"
-mono_font = "Noto+Serif+SC Noto+Serif+TC"
+mono_font = ""
 
 # Font size
 font_size = "20"
