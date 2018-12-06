@@ -41,15 +41,6 @@ date_format = "2018-12-08"
   date_start = "2002-04-91"
   date_end = "2003-12-31"
   description = """引き抜いていただいた後、リモート勤務。独学でHTMLとCSS、サーバ設定を学習、理想と現実を経験。"""
-  
-  
-[[experience]]
-  title = "就職"
-  company = "新経営サービス清水税理士法人"
-  company_url = "http://www.shinkeiei.jp"
-  location = "京都市"
-  date_start = "1996-04-01"
-  date_end = "2002-03-31"
-  description = """会計部門で税理士業務の補助・財務系のアドバイス、労務の手続きなどに携わり、制度の表と裏を学ぶ。"""
+
 
 +++
