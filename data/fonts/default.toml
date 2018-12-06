@@ -5,9 +5,9 @@ name = "Default"
 google_fonts = "Noto+Serif+SC:300,500"
 
 # Font families
-heading_font = "Noto+Serif+SC"
-body_font = "Noto+Serif+SC"
-nav_font = "Noto+Serif+SC"
+heading_font = "Noto Serif SC"
+body_font = "Noto Serif SC"
+nav_font = "Noto Serif SC"
 mono_font = ""
 
 # Font size
