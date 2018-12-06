@@ -24,7 +24,7 @@ weight = 7
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "HTML,CSS"
+  name = "HTML/CSS"
   description = "80%"
   
 [[feature]]
