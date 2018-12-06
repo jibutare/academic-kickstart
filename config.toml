@@ -299,7 +299,7 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
+[[Languages.ja.menu.main]]
   name = "Publications"
   url = "#publications_selected"
   weight = 2
