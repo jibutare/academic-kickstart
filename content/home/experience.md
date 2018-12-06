@@ -25,8 +25,7 @@ date_format = "2018-12-08"
   location = "滋賀県"
   date_start = "2004-01-01"
   date_end = ""
-  description = """歯科医院専門のウェブサイト、院内の資料制作、記帳代行などを中心に事業を展開。
-  主な事業:
+  description = """主な事業:
   
   * ウェブサイト制作
   * 資料制作
