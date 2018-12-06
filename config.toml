@@ -57,21 +57,20 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "fujino@thinksell.net"
+  address = "滋賀県大津市"
   office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
+  09:00 to 16:00\\
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = ""
+  skype = "thinksell"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -116,13 +115,13 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "滋賀県大津市で歯科医院のウェブサイトを制作しています。歯医者専門です。"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "jibutare"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -130,9 +129,9 @@ enableGitInfo = false
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "2018-12-08"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -268,17 +267,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/jibutare"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = ""
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/jibutare"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
