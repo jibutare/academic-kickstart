@@ -269,10 +269,10 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://twitter.com/jibutare"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
+  #[[params.social]]
+  #  icon = "google-scholar"
+  #  icon_pack = "ai"
+  #  link = ""
 
   [[params.social]]
     icon = "github"
