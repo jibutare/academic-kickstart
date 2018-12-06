@@ -2,13 +2,13 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "M+PLUS+Rounded+1c:100,300|Roboto:400,400italic,700|Roboto+M+PLUS+Rounded+1c"
+google_fonts = "Noto+Serif+SC:300|Noto+Serif+TC:600|Noto+Serif+SC+Noto+Serif+TC"
 
 # Font families
-heading_font = "M+PLUS+Rounded+1c:100,300"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+heading_font = "Noto+Serif+TC"
+body_font = "Noto+Serif+SC"
+nav_font = "Noto+Serif+SC"
+mono_font = "Noto+Serif+SC Noto+Serif+TC"
 
 # Font size
 font_size = "20"
