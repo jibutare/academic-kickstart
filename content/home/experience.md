@@ -41,5 +41,14 @@ date_format = "January 2006"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+  
+[[experience]]
+  title = "就職"
+  company = "新経営サービス清水税理士法人"
+  company_url = "http://www.shinkeiei.jp"
+  location = "京都市"
+  date_start = "1996-04-01"
+  date_end = "2002-03-31"
+  description = """個人事業主から中堅企業までの税務・帳簿の業務に携わりました。また労務や公的機関の手続きも学び、制度の表と裏を垣間見られました。"""
 
 +++
