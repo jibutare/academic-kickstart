@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "認知科学",
+    "風景写真",
+    "散歩"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-個人事業主です。歯科医院(歯医者)のウェブサイトを制作しています。ほかにも
+個人事業主。2004年に開業して歯科医院(歯医者)のウェブサイトを制作しています。ほかにも院内で使う資料をデザインしたり、パソコンやネットワークなどの管理を承っています。
