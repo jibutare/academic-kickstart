@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "認知科学",
     "風景写真",
-    "散歩"
+    "散歩",
+    "認知科学"
   ]
 
 # List your qualifications (such as academic degrees).
