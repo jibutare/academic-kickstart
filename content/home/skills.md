@@ -24,19 +24,19 @@ weight = 7
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "CODE"
+  name = "code"
   description = "80%"
   
 [[feature]]
   icon = "directions"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "direction"
   description = "85%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "photography"
   description = "90%"
 
 +++
