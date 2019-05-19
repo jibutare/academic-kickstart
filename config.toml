@@ -13,7 +13,7 @@ title = "THINKSELL"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -66,8 +66,8 @@ enableGitInfo = false
   email = "fujino@thinksell.net"
   address = "滋賀県大津市"
   office_hours = """
-  09:00 to 17/:00\\
-  # Otherwise email to book an appointment
+  09:00 to 16:00\\
+  Otherwise email to book an appointment
   """
   phone = ""
   skype = "thinksell"
@@ -299,8 +299,8 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
- name = "Publications"
+[[menu.main]]
+  name = "Publications"
   url = "#publications_selected"
   weight = 2
 
@@ -314,7 +314,7 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-#[[menu.main]]
+[[menu.main]]
   name = "Tutorials"
   url = "/tutorial/"
   weight = 5
@@ -348,7 +348,7 @@ enableGitInfo = false
     show_logo = false
 
 # Taxonomies.
-#[taxonomies]
+[taxonomies]
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
