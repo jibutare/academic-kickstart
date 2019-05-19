@@ -13,7 +13,7 @@ title = "THINKSELL"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -211,10 +211,10 @@ enableGitInfo = false
     time = true
 
   # Configuration of publication pages.
-  #[params.publications]
-  #  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-  #  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  #  date_format = "January, 2006"
+  [params.publications]
+    # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+    date_format = "January, 2006"
 
   # Configuration of project pages.
   [params.projects]
@@ -300,9 +300,9 @@ enableGitInfo = false
   weight = 1
 
 #[[menu.main]]
-# name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
+ name = "Publications"
+  url = "#publications_selected"
+  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -315,9 +315,9 @@ enableGitInfo = false
   weight = 4
 
 #[[menu.main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 5
+  name = "Tutorials"
+  url = "/tutorial/"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
