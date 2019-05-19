@@ -66,8 +66,8 @@ enableGitInfo = false
   email = "fujino@thinksell.net"
   address = "滋賀県大津市"
   office_hours = """
-  09:00 to 16:00\\
-  Otherwise email to book an appointment
+  09:00 to 17/:00\\
+  # Otherwise email to book an appointment
   """
   phone = ""
   skype = "thinksell"
@@ -299,10 +299,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -349,9 +349,9 @@ enableGitInfo = false
 
 # Taxonomies.
 #[taxonomies]
-#  tag = "tags"
-#  category = "categories"
-#  publication_type = "publication_types"
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
