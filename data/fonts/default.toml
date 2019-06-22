@@ -11,5 +11,5 @@ nav_font = "Noto Sans JP"
 mono_font = ""
 
 # Font size
-font_size = "14"
-font_size_small = "12"
+font_size = "16"
+font_size_small = "14"
