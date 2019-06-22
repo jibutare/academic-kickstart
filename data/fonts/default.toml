@@ -2,14 +2,14 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Noto+Serif+JP:300,500"
+google_fonts = "Noto+Sans+JP:300,500"
 
 # Font families
-heading_font = "Noto Serif JP"
-body_font = "Noto Serif JP"
-nav_font = "Noto Serif JP"
+heading_font = "Noto Sans JP"
+body_font = "Noto Sans JP"
+nav_font = "Noto Sans JP"
 mono_font = ""
 
 # Font size
-font_size = "16"
-font_size_small = "14"
+font_size = "14"
+font_size_small = "12"
