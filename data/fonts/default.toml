@@ -2,14 +2,14 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Kosugi+Maru"
+google_fonts = "Noto+Serif+SC:300,500"
 
 # Font families
-heading_font = "Kosugi+Maru"
-body_font = "Kosugi+Maru"
-nav_font = "Kosugi+Maru"
+heading_font = "Noto Serif SC"
+body_font = "Noto Serif SC"
+nav_font = "Noto Serif SC"
 mono_font = ""
 
 # Font size
-font_size = "14"
-font_size_small = "12"
+font_size = "16"
+font_size_small = "14"
