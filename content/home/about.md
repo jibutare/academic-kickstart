@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "風景写真",
     "散歩",
-    "認知科学"
+    "認知科学",
+    "感情"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -30,7 +31,7 @@ weight = 5
   # course = "BSc in Artificial Intelligence"
   # institution = "Massachusetts Institute of Technology"
   # year = 1990
- 
+
 +++
 
 # Biography
